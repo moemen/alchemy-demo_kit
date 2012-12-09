@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Alchemy CMS demo kit."
   s.description = "A collection of elements and page layouts that form the Alchemy CMS demo website from http://demo.alchemy-cms.com"
 
-  s.files = Dir["{app,config,lib}/**/*"] + ["Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,lib}/**/*"] + ["Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
   s.post_install_message  = <<-POST_INSTALL
 
