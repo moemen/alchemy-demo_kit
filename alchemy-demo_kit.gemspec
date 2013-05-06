@@ -23,5 +23,5 @@ Gem::Specification.new do |s|
 
 POST_INSTALL
 
-  s.add_dependency "alchemy_cms", "~> 2.5.0.b1"
+  s.add_dependency "alchemy_cms", "~> 2.5.0"
 end
